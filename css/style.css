@@ -1,0 +1,25 @@
+body{
+	background: #3f583a;
+	background: #edf2ef;
+}
+
+h1{
+	color: green;
+	font-family: fantasy;
+	
+}
+
+p{
+	
+	font-size: 18px;
+}
+
+img{
+	
+	width:400px
+}
+
+hr{
+	margin-top: 30px
+}
+
